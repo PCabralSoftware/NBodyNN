@@ -1,2 +1,6 @@
-# NBodyNN
-The project goal is to predict the N-Body Simulations outputs and their chaoticity using neural networks and vectorization methods.
+<img src="./src/spikey.png">
+
+<h1>NBodyNN</h1>
+<p>Neural Network for predicting `NBodySimulations` outputs and classifiying as chaotic or not - Wolfram Summer Camp Project</p>
+
+<h2>Algorithm</h2>
