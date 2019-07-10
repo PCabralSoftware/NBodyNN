@@ -1,4 +1,4 @@
-<img src="./src/Random3NB.png" width="100%;" height="100%;">
+<img src="./src/Random3NB.png" width="85px;" height="216px;">
 
 <h1>NBodyNN</h1>
 <p>Dissecting NBodySimulations outputs, statistically inspecting, and classifying them. — <b>Wolfram Summer Camp 2019</b></p>
