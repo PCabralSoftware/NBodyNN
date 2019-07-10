@@ -1,7 +1,7 @@
 <img src="./src/wolfram_spikey_b.png" width="200px;" height="200px;">
 
 <h1>NBodyNN</h1>
-<P>A neural network for predicting <code>NBodySimulations</code> outputs and classifying with labels such as "chaotic", "repetitive" and "sparse" — <b>Final Project for the Wolfram Summer Camp 2019</b></p>
+<p>Dissecting NBodySimulations outputs, statistically inspecting, and classifying them. — <b>Final Project for the Wolfram Summer Camp 2019</b></p>
 
-<h2>Description</h2>
-<p>In this project, I propose a method to predict n-body simulations outputs and their patterns by utilizing neural networks and feature gathering techniques. N-body simulations demand lots of computer processing, and by predicting the output as a class, more computational power can be saved. The method consists of a neural network architecture that receives the bodies data about mass, weight, velocity, and positions in a brief lapse of time, and outputs the class of the simulation, such as "chaotic", "repetitive" or "orbital". The purpose of this project is to develop a method for predicting the result of an n-body simulation without evaluating it, saving processing time.</p>
+<h2>Abstract</h2>
+<p>In this project, I analyze n-body simulations outputs and their patterns by utilizing different statistical methods, visualization algorithms, and feature extraction techniques. Using an n-body simulation random generation technique, a sample of 5000 different outputs could be generated. By performing feature extraction processes, some interesting visualizations about the different outcomes from the simulations were plotted on a two-dimensional feature space plot. Additional conclusions were made using the distribution of the center-of-mass, and a two-body mass visualization.</p>
